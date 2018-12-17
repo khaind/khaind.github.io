@@ -4,7 +4,7 @@ title: "[Cpp Versus] nullptr có giống NULL ?"
 image: https://c1.staticflickr.com/8/7282/8743059428_a4733e06b7_b.jpg
 subtitle: Hiểu rõ hơn về nullptr trong C++11
 bigimg: https://external-preview.redd.it/fOELi1tRrcZwCi1aRkD1qQ3mXX1HDjF-E6J3GQXxn1Y.jpg?auto=webp&s=e919d930d17cd605cf9eae7feb01fcd36ffc853e
-tags: [Programming, C++, nullptr]
+tags: [Programming, C++, nullptr, cppversus]
 ---
 # Tại sao chúng ta nên sử dụng **nullptr** thay vì **NULL**
 
