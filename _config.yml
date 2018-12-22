@@ -79,7 +79,7 @@ social-network-links:
   twitter: khaindk
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: khaind
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -108,7 +108,7 @@ url-pretty: "khaind.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-131279452-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -125,7 +125,7 @@ url-pretty: "khaind.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "khaind"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
