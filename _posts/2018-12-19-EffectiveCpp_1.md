@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Tóm tắt] Effective C++ by Scott Mayers - Phần 1"
-image: /img/cpp_icon.jpg
+image: /img/cpp_icon.png
 subtitle: Bước đầu sử dụng C++ sao cho hiệu quả
 tags: [Programming, Books, Best Practices, C++]
 ---
