@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "[Tóm tắt] Effective C++ by Scott Mayers - Phần 1"
+title: "[Tóm tắt] Effective C++ by Scott Meyers - Phần 1"
 image: /img/cpp_icon.png
 subtitle: Bước đầu sử dụng C++ sao cho hiệu quả
 tags: [Programming, Books, Best Practices, C++]
 ---
 
-# Tổng kết, tóm tắt nội dung sách Effective C++ by Scott Mayers
+# Tổng kết, tóm tắt nội dung sách Effective C++ by Scott Meyers
 
 ## Phần 1: Bước đầu làm quen với C++
 
@@ -134,8 +134,8 @@ tags: [Programming, Books, Best Practices, C++]
 
     **Const** member function:
 
-    - Make interface class easier to understand
-    - Make it possible to work with const object
+    - Làm cho interface class dễ hiểu hơn
+    - Có thể sử dụng với const object
 
     **bitwise constness** vs **logical constness**
 
@@ -236,4 +236,4 @@ tags: [Programming, Books, Best Practices, C++]
     **Cần nhớ**:
     - Khởi tạo bằng tay các đối tượng kiểu có sẵn (**builtin type**), vì C++ chỉ thi thoảng mới khởi tạo chúng.
     - Trong hàm khởi tạo (**constructor**), ưu tiên dùng **member initialization list** so với **assignment** bên trong thân hàm. Và sử dụng thành phần trong **initialization list** theo đúng thứ tự được khai báo trong class.
-    - Tránh lỗi liên quan đến thứ tự khởi tạo (**initialization order**) giữa các **translation units** bằng cách thay thê non-local static objects với local static objects.
+    - Tránh lỗi liên quan đến thứ tự khởi tạo (**initialization order**) giữa các **translation units** bằng cách thay thê non-local static objects bằng local static objects.
