@@ -6,7 +6,7 @@ subtitle: A little bit about myself
 
 My name is NGUYEN Dinh Khai. Currently:
 
-- Technical leader at Fpt Software (2018-present)
+- Full-stack developer at Mercantile Global Holdings (2019-present)
 - C/C++ senior developer
 - Traveller
 - Single
