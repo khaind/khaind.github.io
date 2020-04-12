@@ -234,6 +234,7 @@ Như vậy chúng ta đã cung cấp thêm 1 hàm close() để client chủ đ�
 - Destructors không nên ném ra exceptions. Destructor nên bắt các exception ném ra hoặc chủ động ngắt chương trình.
 - Cân nhắc đưa các thao tác có thể sinh ra exception ở 1 hàm thông thường không phải destructor, như vậy client có thể chủ động xử lý khi thực thi thao tác nó muốn.
 {: .text-justify}
+
 ### Item 9: Không được gọi hàm ảo trong constructor hay destructor
 
 > Base class parts of derived class objects are constructed before derived class parts are
